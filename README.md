@@ -15,9 +15,9 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/hello_2024_flutter_songdo_study/_/view.dart -d chrome
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/melodysdreamj/hello_2024_flutter_songdo_study/assets/21379657/15b0aad7-858d-4530-b288-38cc5e451762)
 

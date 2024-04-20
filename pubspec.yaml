@@ -1,7 +1,7 @@
 name: hello_2024_flutter_songdo_study
-description: "Description here"
+description: "Hello 2024 Flutter Songdo Study"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/melodysdreamj/hello_2024_flutter_songdo_study
 
 version: 1.0.0+1
 
